@@ -1,6 +1,6 @@
 # Challenge Literatura 📚
 
-![Medallita]()
+![Medallita](./imagenes/badge%20literalura.png)
 
 A aplicação de console que desenvolveremos com Spring no IntelliJ IDEA deve atender cinco funcionalidades principais. Primeiro, permitirá pesquisar livros por título, consultando informações em uma API e registrando os dados no banco de dados. Também listará os livros cadastrados, mostrando todos os armazenados, como “Dom Quixote” e “Orgulho e Preconceito”. Além disso, apresentará todos os autores cadastrados, mostrando primeiro o sobrenome e depois o nome. Permitirá listar os autores vivos em um determinado ano, inserindo um ano e exibindo os autores vivos nesse período, como Cervantes e Shakespeare em 1600. Por fim, filtrará os livros por idioma (ES, EN) e exibirá os resultados. Essas funcionalidades focam na interação com o banco de dados e não requerem frontend.
 
